@@ -1,0 +1,12 @@
+{
+  "name": "@larsthorup/rsc-from-scratch",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "escape-html": "^1.0.3",
+    "http": "^0.0.1-security"
+  }
+}
